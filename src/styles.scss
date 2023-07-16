@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+html,
+body {
+  height: 100%;
+}
+.cdk-overlay-connected-position-bounding-box{
+  position: relative;
+}
+.cdk-overlay-pane{
+  position: absolute;
+  top: 0 !important;
+}
